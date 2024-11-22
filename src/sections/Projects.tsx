@@ -3,6 +3,7 @@ import lightSaasLandingPage from "@/assets/images/light-saas-landing-page.png";
 import aiStartupLandingPage from "@/assets/images/ai-startup-landing-page.png";
 import BravortLandingPage from "@/assets/images/bravort.png";
 import InnovationsLandingPage from "@/assets/images/innovations.png";
+import Academia from "@/assets/images/acadenmia.png";
 import CheckIcon from "@/assets/icons/check-circle.svg";
 import ArrowUpRightIcon from "@/assets/icons/arrow-up-right.svg";
 import grainImage from "@/assets/images/grain.jpg";
@@ -35,18 +36,18 @@ const portfolioProjects = [
     link: "https://www.lacharizinnovations.com/",
     image: InnovationsLandingPage,
   },
-  // {
-  //   company: "Quantum Dynamics",
-  //   year: "2023",
-  //   title: "AI Startup Landing Page",
-  //   results: [
-  //     { title: "Enhanced user experience by 40%" },
-  //     { title: "Improved site speed by 50%" },
-  //     { title: "Increased mobile traffic by 35%" },
-  //   ],
-  //   link: "https://youtu.be/Z7I5uSRHMHg",
-  //   image: aiStartupLandingPage,
-  // },
+  {
+    company: "Personal Project",
+    year: "2021",
+    title: "Academia",
+    results: [
+      { title: "Enhanced user experience by 40%" },
+      { title: "Improved site speed by 50%" },
+      { title: "Increased mobile traffic by 35%" },
+    ],
+    link: "https://education-website-lac.vercel.app/",
+    image: Academia,
+  },
 ];
 
 export const ProjectsSection = () => {
