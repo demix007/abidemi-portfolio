@@ -1,4 +1,4 @@
-import Abdul from "@/assets/images/Abdul.jpeg";
+import Abdul from "@/assets/images/abdul.jpeg";
 import Adesanya from "@/assets/images/adesanya.jpeg";
 import Kashif from "@/assets/images/kashif.jpeg";
 import Keenan from "@/assets/images/keenan.jpeg";
